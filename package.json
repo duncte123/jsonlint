@@ -1,7 +1,7 @@
 {
   "author": "Zach Carter <zach@carter.name> (http://zaa.ch)",
-  "name": "jsonlint",
-  "description": "Validate JSON",
+  "name": "@duncte123/jsonlint",
+  "description": "Validate JSON without requiring system or file",
   "keywords": [
     "json",
     "validation",
