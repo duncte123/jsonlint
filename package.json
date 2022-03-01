@@ -30,13 +30,12 @@
     "JSV": "^4.0.x"
   },
   "devDependencies": {
-    "test": "*",
     "jison": "*",
+    "test": "*",
     "uglify-js": "*"
   },
   "scripts": {
     "test": "node test/all-tests.js"
   },
-  "homepage": "http://zaach.github.com/jsonlint/",
-  "optionalDependencies": {}
+  "homepage": "http://zaach.github.com/jsonlint/"
 }
