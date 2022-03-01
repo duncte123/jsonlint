@@ -1,6 +1,8 @@
 JSON Lint
 =========
 
+# This package has been moved to https://gitlab.com/mapcreator/jsonlint
+
 A pure [JavaScript version](http://zaach.github.com/jsonlint/) of the service provided at [jsonlint.com](http://jsonlint.com).
 
 ## Command line interface
